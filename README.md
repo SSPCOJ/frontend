@@ -11,7 +11,7 @@ node.js v16.20.2를 사용합니다.
 3. `export TARGET="http://localhost"`등으로 `TARGET`환경변수를 백엔드 서버로 지정합니다.
 4. `npm run dev`로 개발 서버를 엽니다.
 
-## 빌드하기
+## 빌드 및 적용하기
 
 1. `npm run build`를 이용해서 빌드합니다.
 2. 결과물인 dist폴더를 deploy 폴더의 data/backend/dist로 붙여넣습니다. \
