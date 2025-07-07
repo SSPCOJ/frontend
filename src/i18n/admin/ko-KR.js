@@ -90,7 +90,7 @@ export const m = {
   Edit_Problem: '문제 수정',
   Add_Problem: '문제 추가',
   High: '어려움',
-  Mid: '중간',
+  Mid: '보통',
   Low: '쉬움',
   Tag: '태그',
   New_Tag: '태그 추가',

@@ -166,7 +166,7 @@ export const m = {
   // ProblemList.vue
   Problem_List: '문제 목록',
   High: '어려움',
-  Mid: '중간',
+  Mid: '보통',
   Low: '쉬움',
   All: '전체',
   Reset: '초기화',
